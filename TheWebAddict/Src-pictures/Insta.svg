@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Group_102" data-name="Group 102" transform="translate(0.24)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(-0.24)" fill="#dee0e3"/>
+    <g id="Icon_feather-instagram" data-name="Icon feather-instagram" transform="translate(5.656 6.209)">
+      <path id="Path_434" data-name="Path 434" d="M5.778,3h5.556a2.778,2.778,0,0,1,2.778,2.778v5.556a2.778,2.778,0,0,1-2.778,2.778H5.778A2.778,2.778,0,0,1,3,11.333V5.778A2.778,2.778,0,0,1,5.778,3Z" transform="translate(-3 -3)" fill="none" stroke="#00758d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_435" data-name="Path 435" d="M16.485,13.831a2.222,2.222,0,1,1-1.872-1.872A2.222,2.222,0,0,1,16.485,13.831Z" transform="translate(-8.707 -8.626)" fill="none" stroke="#00758d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_436" data-name="Path 436" d="M26.25,9.75h0" transform="translate(-17.639 -7.25)" fill="none" stroke="#00758d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

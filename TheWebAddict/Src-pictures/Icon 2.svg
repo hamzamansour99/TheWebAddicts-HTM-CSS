@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.922" height="44.725" viewBox="0 0 27.922 44.725">
+  <g id="calculate_x2C__calculator_x2C__calc" transform="translate(0.5 0.5)">
+    <g id="XMLID_395_" transform="translate(0 0)">
+      <g id="XMLID_3621_">
+        <g id="XMLID_3622_">
+          <path id="XMLID_3623_" d="M31.422,41.761a2.763,2.763,0,0,1-2.447,2.982H6.947A2.763,2.763,0,0,1,4.5,41.761V4.482A2.763,2.763,0,0,1,6.947,1.5H28.975a2.763,2.763,0,0,1,2.447,2.982Z" transform="translate(-4.5 -1.5)" fill="#dee0e3"/>
+        </g>
+      </g>
+      <g id="XMLID_3618_" transform="translate(2.237 2.237)">
+        <g id="XMLID_3619_">
+          <path id="XMLID_3620_" d="M8.408,3A2.75,2.75,0,0,0,6,5.982V43.261a3.518,3.518,0,0,0,.066.664,1.9,1.9,0,0,0,.536.082H28.277a2.75,2.75,0,0,0,2.408-2.982V3.746a3.518,3.518,0,0,0-.066-.664A1.9,1.9,0,0,0,30.083,3Z" transform="translate(-6 -3)" fill="#33a5b3"/>
+        </g>
+      </g>
+      <path id="XMLID_3617_" d="M28.879,29.841V40.279a1.372,1.372,0,0,1-1.2,1.491H6V43.9a1.94,1.94,0,0,0,.6.106H28.277a2.75,2.75,0,0,0,2.408-2.982V3.746A3.576,3.576,0,0,0,30.6,3H28.879Z" transform="translate(-3.763 -0.763)" fill="#00758d"/>
+      <path id="XMLID_2948_" d="M27.457,34.949c0,1.153-.262,2.1-.582,2.1H7.082c-.32,0-.582-.943-.582-2.1V5.6c0-1.153.262-2.1.582-2.1H26.875c.32,0,.582.943.582,2.1Z" transform="translate(-3.518 -0.518)" fill="#a9e4ff"/>
+    </g>
+    <g id="XMLID_3117_" transform="translate(0 0)">
+      <g id="XMLID_2705_" transform="translate(0 0)">
+        <path id="XMLID_3186_" d="M4.5,13.562V4.516A2.785,2.785,0,0,1,6.947,1.5H28.975a2.785,2.785,0,0,1,2.447,3.016V42.209a2.785,2.785,0,0,1-2.447,3.016H6.947A2.785,2.785,0,0,1,4.5,42.209V16.578" transform="translate(-4.5 -1.5)" fill="none" stroke="#455a64" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="XMLID_2719_" d="M9.958,27.381a.578.578,0,0,1-.576.576H7.076a.578.578,0,0,1-.576-.576V25.076a.578.578,0,0,1,.576-.576H9.381a.578.578,0,0,1,.576.576Z" transform="translate(5.232 13.956)" fill="#ffe0b2" stroke="#455a64" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="XMLID_2706_" d="M27.457,34.973c0,1.153-.243,2.1-1.733,2.1H8.151c-1.311,0-1.651-.944-1.651-2.1V5.616c0-1.153.289-2.05,1.467-2.05H25.652c1.963,0,1.806.9,1.806,2.05Z" transform="translate(-3.518 -0.537)" fill="none" stroke="#455a64" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
